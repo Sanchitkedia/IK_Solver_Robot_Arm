@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['main_9',['main',['../app_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.cpp'],['../test_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;main.cpp']]],
-  ['main_2ecpp_10',['main.cpp',['../app_2main_8cpp.html',1,'(Global Namespace)'],['../test_2main_8cpp.html',1,'(Global Namespace)']]]
+  ['euler_5fx_17',['euler_x',['../classForwardKinematics.html#ab093cb9f873674c5b08debbf12801f9b',1,'ForwardKinematics']]],
+  ['euler_5fy_18',['euler_y',['../classForwardKinematics.html#add649caa8c5b9851755ed8f9c6cfd9ec',1,'ForwardKinematics']]],
+  ['euler_5fz_19',['euler_z',['../classForwardKinematics.html#a7e726f564b4bb11c76a85d08ac833a95',1,'ForwardKinematics']]]
 ];

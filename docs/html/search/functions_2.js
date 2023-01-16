@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['get_5fdh_5fparameters_30',['get_dh_parameters',['../classRobotParameters.html#a1de2462c0d8608c61cb28620cd52fdb6',1,'RobotParameters']]],
-  ['get_5frobot_5fangles_31',['get_robot_angles',['../classRobotParameters.html#abb23a98c3b54b0cf00c6ced44991e631',1,'RobotParameters']]]
+  ['find_5fpackage_81',['find_package',['../app_2CMakeLists_8txt.html#a868d5a661159460ff489fd4cd77c8a76',1,'CMakeLists.txt']]]
 ];

@@ -14,8 +14,9 @@
 
 #include <string>
 #include <vector>
-
 #include "../include/Eigen/Dense"
+
+
 /**
  * @brief Definition of the Robot Parameter Class
  *
@@ -26,6 +27,7 @@ class RobotParameters {
   std::vector<double> _dh_a;
   std::vector<double> _dh_d;
   std::vector<double> _robot_angles;
+  Eigen::MatrixXd DH;
 
  public:
   /**
@@ -34,6 +36,11 @@ class RobotParameters {
    */
   RobotParameters();
   std::string robot_name;
+  /**
+   * @brief Sets the DH parameters
+   *
+   */
+  void set_dh_parameters();
   /**
    * @brief Compute the dh parameters matrix
    *
